@@ -1,0 +1,32 @@
+{
+  "name": "shopping_cart_front",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "test": "vue-cli-service test:unit --watchAll",
+    "lint": "eslint --ext .js,.vue src"
+  },
+  "dependencies": {
+    "@toast-ui/vue-grid": "^4.14.0",
+    "axios": "^0.21.1",
+    "bootstrap": "^3.3.7",
+    "core-js": "^3.4.4",
+    "install": "^0.13.0",
+    "js-cookie": "^2.2.1",
+    "tui-grid": "^4.14.0",
+    "tui-pagination": "^3.4.0",
+    "vue": "^2.6.10",
+    "vue-router": "^3.3.4",
+    "vuejs-paginate": "^2.1.0",
+    "vuex": "^3.1.2",
+    "vuex-persistedstate": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.1.0",
+    "@vue/cli-service": "^3.0.5",
+    "@vue/test-utils": "1.0.0-beta.29",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
