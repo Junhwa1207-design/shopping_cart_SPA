@@ -11,3 +11,8 @@ Once the user clicks the product name, it shows the pop-up window of the cart. A
 ### Dev_Note link:
 https://docs.google.com/document/d/1l8LCFjayDMedUj8kg1gVE54QbUBXGiGzEOW4_E5UEUE/edit?usp=sharing
 
+### Dev stack:
+Node
+Express
+Vue
+Mysql
