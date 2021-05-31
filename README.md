@@ -15,4 +15,4 @@ https://docs.google.com/document/d/1l8LCFjayDMedUj8kg1gVE54QbUBXGiGzEOW4_E5UEUE/
 Node,
 Express,
 Vue,
-Mysql,
+Mysql
